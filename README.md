@@ -1,8 +1,8 @@
-Nectar E-Commerce [![Build Status](https://travis-ci.org/vinsol/nectarcommerce.svg?branch=master)](https://travis-ci.org/vinsol/nectarcommerce)
+ecommerce-Phoenix [![Build Status]
 =================
 
-Nectar is an open source e-commerce Elixir/Phoenix project to be _evolved into E-Commerce framework **the elixir way**_
-Please share your ideas [here](https://github.com/vinsol/nectarcommerce/issues/44)
+ecommerce-Phoenix is an open source e-commerce Elixir/Phoenix project to be _evolved into E-Commerce framework **the elixir way**_
+Please share your ideas [here](https://github.com/impressarix/ecommerce-Phoenix/issues/44)
 
 It includes:
 
@@ -44,15 +44,6 @@ It includes:
   - on available categories
 - Cart Management
 - Check Order Details
-
-Demo
-==============
-- [Browse User Interface](http://nectarcommerce.vinsol.com/)
-  - **Username:** alice@example.com
-  - **Password:** foobar
-- [Browse Admin Interface](http://nectarcommerce.vinsol.com/admin)
-  - **Username:** bob@example.com
-  - **Password:** secured
 
 Docker Image
 ---------------
@@ -156,9 +147,12 @@ RoadMap
   - Email Campaigns
 - More features as per contributions and use :)
 
-Credits
--------
+Demo
+==============
+- [Browse User Interface](http://nectarcommerce.vinsol.com/)
+  - **Username:** alice@example.com
+  - **Password:** foobar
+- [Browse Admin Interface](http://nectarcommerce.vinsol.com/admin)
+  - **Username:** bob@example.com
+  - **Password:** secured
 
-[![vinsol.com: Ruby on Rails, iOS and Android developers](http://vinsol.com/themes/vinsoldotcom-theme/images/new_img/vin_logo.png "Ruby on Rails, iOS and Android developers")](http://vinsol.com)
-
-Copyright (c) 2016 [vinsol.com](http://vinsol.com "Ruby on Rails, iOS and Android developers"), released under the New MIT License
