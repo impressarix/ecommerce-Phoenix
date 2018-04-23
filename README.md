@@ -1,4 +1,4 @@
-ecommerce-Phoenix [![Build Status]
+ecommerce-Phoenix 
 =================
 
 ecommerce-Phoenix is an open source e-commerce Elixir/Phoenix project to be _evolved into E-Commerce framework **the elixir way**_
